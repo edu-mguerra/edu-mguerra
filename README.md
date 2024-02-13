@@ -28,7 +28,7 @@
   
   <img align="center" alt="Dev-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-  <img align="center" alt="Dev-tail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Dev-tail" height="30" width="40" src="https://www.svgrepo.com/svg/333609/tailwind-css" />
           
 </div>
 
