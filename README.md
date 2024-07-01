@@ -3,11 +3,11 @@
 
 
 - 🔭 Atualmente estou explorando a área de front-end.
-- 🌱 Tenho conhecimentos em HTML, CSS, JavaScript, Tailwind e Git.
+- 🌱 Tenho conhecimentos em HTML, CSS,, Tailwind, JavaScript, React/next.js, Vue.js, Banco de dados e Git.
 - 👯 Estou interessado em colaborar em projetos inspiradores.
 - 💬 Pergunte-me sobre qualquer coisa relacionada a front-end ou sobre meus projetos.
 - 📫 Como me encontrar: [Email](mailto:eduguerra.dev@gmail.com) ou [Instagram](https://www.instagram.com/eduardo.mguerra/).
-- ⚡ Curiosidade: Estudo programação há mais de um ano, sou entusiasta por tecnologia e estou cursando Ciências da Computação.
+- ⚡ Curiosidade: Entusiasta por tecnologia e estou cursando Ciências da Computação.
 
 <div align="center">
   <a href="https://github.com/edu-mguerra">
