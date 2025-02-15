@@ -21,7 +21,6 @@
 <h1>📊 GitHub Stats</h1>
 <div align="center">
     <a href="https://github.com/edu-mguerra">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu-mguerra&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-mguerra&layout=compact&langs_count=7&theme=highcontrast&hide=html,css&hide_title=true"/>
     </a>
 </div>
