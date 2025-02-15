@@ -1,32 +1,52 @@
-### Hi there 👋
+
+  <h1>👋 Olá! Eu sou Eduardo Guerra</h1>
+        <p>💻 <strong>Desenvolvedor Full Stack em evolução</strong></p>
+<p>🎯 Atualmente, estou expandindo minhas habilidades no <strong>back-end</strong>, enquanto continuo a aprimorar minhas soluções de <strong>front-end</strong> para criar experiências completas e integradas.</p>
+<p>📊 Focado no desenvolvimento com <strong>Node.js, Express e Banco de Dados</strong>, além de integrar com tecnologias de <strong>front-end</strong> para sistemas altamente interativos.</p>
 
 
+  <h1>🚀 Sobre mim</h1>
+   <p>Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando aprender e criar soluções eficientes. Atualmente, estou aprofundando meus conhecimentos em <strong>back-end</strong> para complementar minha experiência com <strong>front-end</strong>.</p>
 
-- 🔭 Atualmente estou explorando a área de front-end.
-- 🌱 Tenho conhecimentos em HTML, CSS,, Tailwind, JavaScript, React/next.js, Vue.js, Banco de dados(MySQl) e Git.
-- 👯 Estou interessado em colaborar em projetos inspiradores.
-- 💬 Pergunte-me sobre qualquer coisa relacionada a front-end ou sobre meus projetos.
-- 📫 Como me encontrar: [Email](mailto:eduguerra.dev@gmail.com) ou [Instagram](https://www.instagram.com/eduardo.mguerra/).
-- ⚡ Curiosidade: Entusiasta por tecnologia e estou cursando Ciências da Computação.
+  <h2>🔹 Principais tecnologias:</h2>
+  <ul>
+        <li>✔️ <strong>Front-end:</strong> HTML, CSS, TailwindCSS, JavaScript, TypeScript, React/Next.js, Vue.js</li>
+        <li>✔️ <strong>Back-end:</strong> Node.js, Express, MySQL</li>
+        <li>✔️ <strong>Versionamento:</strong> Git & GitHub</li>
+        <li>✔️ <strong>Outras ferramentas:</strong> Figma, WordPress</li>
+    </ul>
 
+  <p>💡 Sempre aberto para colaborações em projetos desafiadores e novas oportunidades!</p>
+
+<h1>📊 GitHub Stats</h1>
 <div align="center">
-  <a href="https://github.com/edu-mguerra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu-mguerra&show_icons=true&theme=dracula&include_all_commits" />
-  </a>
+    <a href="https://github.com/edu-mguerra">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu-mguerra&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-mguerra&layout=compact&langs_count=7&theme=highcontrast&hide=html,css&hide_title=true"/>
+    </a>
 </div>
 
-<div style="display: inline_block">
+
+
+ <br>
+<h3>🛠️ Tecnologias:</h3>
+ <div style="display: inline_block"> 
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> 
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png"/>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> 
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> 
+  <img align="center" alt="Vue.js" height="30" width="40" src="https://br.vuejs.org/images/logo.svg"/> 
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> 
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
+  <img align="center" alt="MySQL" height="40" width="40" src="https://www.svgrepo.com/show/373848/mysql.svg"/> </div>
   <br>
-   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="Dev-tail" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" />
-    <img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="Dev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-    <img align="center" alt="Dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img align="center" alt="Dev-VUE" height="30" width="40" src="https://br.vuejs.org/images/logo.svg"/>
-    <img align="center" alt="Dev-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="Dev-SQL" height="40" width="40" src="https://www.svgrepo.com/show/373848/mysql.svg"/>         
-  </div>
+📫 Onde me encontrar?  <br>
+E-mail: <a href="mailto:eduguerra.dev@gmail.com">eduguerra.dev@gmail.com</a>
+<br> <br>
+LinkedIn: <a href="https://www.linkedin.com/in/eduardo-guerra-mh" target="_blank">linkedin.com/in/eduardo-guerra-mh</a>
+</p>
 
 
 
