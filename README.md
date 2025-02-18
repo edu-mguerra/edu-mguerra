@@ -29,21 +29,44 @@
 
  <br>
 <h3>🛠️ Tecnologias:</h3>
- <div style="display: inline_block"> 
+
+<h4>🎨 Front-End:</h4>
+<div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> 
   <img align="center" alt="Tailwind" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png"/>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> 
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> 
+<img align="center" alt="Next.js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/>
+
   <img align="center" alt="Vue.js" height="30" width="40" src="https://br.vuejs.org/images/logo.svg"/> 
+</div>
+
+<h4>⚙️ Back-End:</h4>
+<div style="display: inline_block">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> 
+</div>
+
+<h4>🗄️ Banco de Dados:</h4>
+<div style="display: inline_block">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://www.svgrepo.com/show/373848/mysql.svg"/> 
+  <img align="center" alt="SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/> 
+</div>
+
+<h4>📂 Outros:</h4>
+<div style="display: inline_block">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
-  <img align="center" alt="MySQL" height="40" width="40" src="https://www.svgrepo.com/show/373848/mysql.svg"/> </div>
-  <br>
+  <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> 
+  <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"/> 
+</div>
+
+
+<br><hr>
+
 📫 Onde me encontrar?  <br>
 E-mail: <a href="mailto:eduguerra.dev@gmail.com">eduguerra.dev@gmail.com</a>
-<br> <br>
+<br> 
 LinkedIn: <a href="https://www.linkedin.com/in/eduardo-guerra-mh" target="_blank">linkedin.com/in/eduardo-guerra-mh</a>
 </p>
 
