@@ -5,17 +5,25 @@
 <h2 align="left">🧑‍💻 Sobre Mim</h2>
 
 <p align="left">
-  💻 Desenvolvedor Full Stack em evolução<br><br>
-  🎯 Atualmente: Expandindo minhas habilidades no back-end, enquanto continuo aprimorando soluções de front-end para criar experiências completas e integradas.<br><br>
-  📊 Foco: Desenvolvimento com Node.js, Express e Banco de Dados, integrando tecnologias de front-end para sistemas altamente interativos.<br><br>
-  🚀 Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando aprender e criar soluções eficientes. Atualmente, estou me aprofundando no back-end para complementar minha sólida base em front-end.<br><br>
-  🔧 Tecnologias principais:<br>
-  ✔️ <strong>Front-end:</strong> HTML, CSS, TailwindCSS, JavaScript, TypeScript, React/Next.js, Vue.js<br>
-  ✔️ <strong>Back-end:</strong> Node.js, Express, MySQL<br>
-  ✔️ <strong>Versionamento:</strong> Git & GitHub<br>
-  ✔️ <strong>Ferramentas:</strong> Figma, WordPress<br><br>
-  💡 Sempre aberto a colaborações em projetos desafiadores e novas oportunidades!
+  💻 <strong>Desenvolvedor Full Stack em constante evolução</strong><br><br>
+
+  🎯 <strong>Atualmente:</strong> Aprofundando conhecimentos no <strong>back-end</strong> enquanto aprimoro soluções de <strong>front-end</strong>, criando experiências digitais completas e integradas.<br><br>
+
+  📌 <strong>Foco atual:</strong> Desenvolvimento com <code>Node.js</code>, <code>Express</code> e <code>MySQL</code>, com integração a tecnologias de <strong>front-end</strong> como <code>React</code> e <code>Vue.js</code> para construir aplicações modernas e interativas.<br><br>
+
+  🚀 <strong>Missão:</strong> Criar soluções web eficientes, escaláveis e intuitivas, sempre com um olhar atento à usabilidade, performance e inovação.<br><br>
+
+  🔧 <strong>Tech Stack:</strong><br>
+  <ul>
+    <li>🖥️ <strong>Front-end:</strong> HTML, CSS, TailwindCSS, JavaScript, TypeScript, React/Next.js, Vue.js</li>
+    <li>🛠️ <strong>Back-end:</strong> Node.js, Express, MySQL</li>
+    <li>📁 <strong>Versionamento:</strong> Git & GitHub</li>
+    <li>🎨 <strong>Ferramentas:</strong> Figma, WordPress</li>
+  </ul>
+
+  💡 <strong>Aberto a colaborações</strong> em projetos desafiadores e novas oportunidades no universo tech!
 </p>
+
 
 ###
 
@@ -60,19 +68,34 @@
 <br>
 
 ###
-
 <h2 align="left">📈 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edu-mguerra&show_icons=true&theme=default" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=edu-mguerra&theme=default" height="150" alt="GitHub Streak" />
+  <a href="https://github.com/edu-mguerra">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=edu-mguerra&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+      alt="Estatísticas do GitHub"
+    />
+  </a>
+  
+  <a href="https://github.com/edu-mguerra">
+    <img 
+      height="180em" 
+      src="https://streak-stats.demolab.com?user=edu-mguerra&theme=radical" 
+      alt="GitHub Streak"
+    />
+  </a>
+
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edu-mguerra&layout=compact&theme=dracula" height="150" alt="Top Langs" />
+</div>
+
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edu-mguerra&layout=compact&theme=dracula" height="150" alt="Top Langs" />
-</div>
+
 
 <br>
 
