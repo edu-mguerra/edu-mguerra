@@ -81,19 +81,13 @@
 <h2 align="left">📈 Estatísticas do GitHub</h2>
 
 <div align="center" >
-  <a href="https://github.com/edu-mguerra">
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=edu-mguerra&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
-      alt="Estatísticas do GitHub"
-    />
-  </a>
   
 
 
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edu-mguerra&layout=compact&theme=dracula" height="150" alt="Top Langs" />
-</div>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edu-mguerra&layout=compact&theme=dracula" width="100%" height="150" alt="Top Langs" />
+
+
 
 </div>
 
@@ -119,4 +113,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
+
+
 
