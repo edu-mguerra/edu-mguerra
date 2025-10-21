@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ===================== HEADER ===================== -->
-<h1>
+<h3>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   Bem-vindo ao meu perfil!
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-</h1>
+</h3>
 
 <h3>🚀 Desenvolvedor Full Stack | 💡 Criando soluções digitais inovadoras</h3>
 
