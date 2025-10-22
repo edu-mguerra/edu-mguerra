@@ -45,7 +45,7 @@ Sou desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções di
 <strong>🎯 Atualmente estou:</strong>
 <ul>
   <li>🔍 Explorando arquiteturas de back-end escaláveis</li>
-  <li>🎨 Criando interfaces intuitivas com React/Vue</li>
+  <li>🎨 Criando interfaces intuitivas com React e React Native</li>
   <li>🗄️ Trabalhando com bancos de dados relacionais</li>
   <li>📱 Desenvolvendo aplicações mobile</li>
 </ul>
