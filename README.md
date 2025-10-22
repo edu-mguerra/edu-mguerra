@@ -3,7 +3,7 @@
 <!-- ===================== HEADER ===================== -->
 <h3>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-  Bem-vindo ao meu perfil!
+   Bem-vindo ao meu perfil!
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </h3>
 
@@ -173,10 +173,8 @@ Sou desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções di
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="GitHub Header"/>
   <table>
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=edu-mguerra&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" width="100%"/>
-      </td>
-      <td width="50%">
+    
+   <td width="100%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-mguerra&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" width="100%"/>
       </td>
     </tr>
@@ -184,10 +182,8 @@ Sou desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções di
       <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=edu-mguerra&theme=dracula&hide_border=true&background=0D1117" width="100%"/>
       </td>
-      <td width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=edu-mguerra&theme=dracula&bg_color=0d1117&hide_border=true&area=true&color=BD93F9&line=BD93F9&point=FFFFFF" width="100%"/>
-      </td>
-    </tr>
+  
+   </tr>
   </table>
 </div>
 <!-- ===================== CONTATO ===================== -->
