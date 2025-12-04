@@ -166,26 +166,8 @@ Sou desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções di
 
 
 
-<!-- ===================== GRÁFICO DE ATIVIDADES ===================== -->
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="GitHub Header"/>
-  <h2>🚀 Minhas Estatísticas</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="GitHub Header"/>
-  <table>
-    <tr>
-    
-   <td width="100%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-mguerra&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=edu-mguerra&theme=dracula&hide_border=true&background=0D1117" width="100%"/>
-      </td>
-  
-   </tr>
-  </table>
-</div>
+
+
 <!-- ===================== CONTATO ===================== -->
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="GitHub Header"/>
