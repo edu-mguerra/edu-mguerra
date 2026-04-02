@@ -25,7 +25,6 @@
 
   <h2>🧑‍💻 Sobre Mim</h2>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="GitHub Header"/>
   <p>
     <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer"/>
     <img src="https://img.shields.io/badge/☕-Coffee%20Lover-brown" alt="Coffee Lover"/>
@@ -34,35 +33,10 @@
 
 </div>
 
-<!-- Texto alinhado à esquerda -->
-<div align="start">
 
-<p>
-Sou desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções digitais funcionais e eficientes. Comecei minha carreira focado em front-end e expandi meu conhecimento para todo o ciclo de desenvolvimento, do design da interface até a infraestrutura do back-end.
-</p>
 
-<p>
-<strong>🎯 Atualmente estou:</strong>
-<ul>
-  <li>🔍 Explorando arquiteturas de back-end escaláveis</li>
-  <li>🎨 Criando interfaces intuitivas com React e React Native</li>
-  <li>🗄️ Trabalhando com bancos de dados relacionais</li>
-  <li>📱 Desenvolvendo aplicações mobile</li>
-</ul>
-</p>
-
-<p>
-<strong>💡 Meu lema:</strong> "Código bom é aquele que outros desenvolvedores conseguem entender e manter"
-</p>
-
-<p>
-<strong>🌟 Interesses:</strong> Tech, inovação, UX/UI, open source, compartilhar conhecimento
-</p>
-
-</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="GitHub Header"/>
   
   <h2>🛠️ My Toolkit</h2>
   
@@ -182,7 +156,6 @@ Sou desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções di
 
 <!-- ===================== CONTATO ===================== -->
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="GitHub Header"/>
   <h2>📞 Vamos Conversar!</h2>
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="GitHub Header"/>
 
