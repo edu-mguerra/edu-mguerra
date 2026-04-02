@@ -61,12 +61,11 @@ Sou desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções di
 
 </div>
 
-
-
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="GitHub Header"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="GitHub Header"/>
+  
   <h2>🛠️ My Toolkit</h2>
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="GitHub Header"/>
+  
   <table>
     <tr>
       <td align="center" width="96">
@@ -91,7 +90,7 @@ Sou desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções di
       </td>
     </tr>
 
-   <tr>
+  <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
         <br>React
@@ -114,7 +113,7 @@ Sou desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções di
       </td>
     </tr>
 
-   <tr>
+  <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
         <br>Node.js
@@ -136,9 +135,8 @@ Sou desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções di
         <br>Git
       </td>
     </tr>
-    
-  
-   <tr>
+
+  <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
         <br>MySQL
@@ -158,6 +156,20 @@ Sou desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções di
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
         <br>Firebase
+      </td>
+    </tr>
+
+  <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+        <br>Spring
+      </td>
+      <td align="center" width="96" colspan="3">
+        <!-- Espaço vazio para manter o alinhamento -->
       </td>
     </tr>
   </table>
