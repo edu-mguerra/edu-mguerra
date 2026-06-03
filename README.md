@@ -36,121 +36,53 @@
 
 
 
+<!-- ===================== PRINCIPAIS TECNOLOGIAS ===================== -->
 <div align="center">
-  
-  <h2>🛠️ My Toolkit</h2>
-  
+
+<h2>🚀 Principais Tecnologias</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Java-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
+
+</div>
+
+<!-- ===================== TOOLKIT ===================== -->
+<div align="center">
+
+<h2>🛠️ My Toolkit</h2>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,vue,nodejs,express,php,java,spring,dotnet,mysql,postgres,mongodb,sqlite,firebase,linux,git,figma&perline=11" />
+
+</div>
+
+<!-- ===================== GITHUB STATS ===================== -->
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
+      <td>
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edu-mguerra&theme=dracula&exclude=html,css" />
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br>CSS
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edu-mguerra&theme=dracula" />
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
-      </td>
-    </tr>
-
-  <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-        <br>Next.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        <br>Vue.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-        <br>React Native
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>Figma
-      </td>
-    </tr>
-
-  <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br>Express
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        <br>PHP
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-    </tr>
-
-  <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-        <br>SQLite
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-        <br>Firebase
-      </td>
-    </tr>
-
-  <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-        <br>Spring
-      </td>
-      <td align="center" width="96" colspan="3">
-        <!-- Espaço vazio para manter o alinhamento -->
-      </td>
-    </tr>
+      
+      
+</tr>
   </table>
 </div>
 
+<br>
 
-
+>
 
 
 
