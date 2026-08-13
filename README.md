@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Java-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
 </div>
@@ -58,7 +57,7 @@
 
 <h2>🛠️ My Toolkit</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,vue,nodejs,express,php,java,spring,dotnet,mysql,postgres,mongodb,sqlite,firebase,linux,git,figma&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,vue,nodejs,express,c#,dotnet,mysql,postgres,mongodb,sqlite,firebase,linux,git,figma&perline=11" />
 
 </div>
 
