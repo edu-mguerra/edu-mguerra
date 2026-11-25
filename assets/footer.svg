@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="100%" fill="none">
+  <defs>
+    <linearGradient id="footWave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#667eea" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#764ba2" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="footWave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#4facfe" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#667eea" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#e2e8f0"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'Fira Code', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      @keyframes waveSlide {
+        0%, 100% { transform: translateX(0px); }
+        50% { transform: translateX(-25px); }
+      }
+      .w1 { animation: waveSlide 7s ease-in-out infinite; }
+      .w2 { animation: waveSlide 9s ease-in-out infinite reverse; }
+    </style>
+  </defs>
+
+  <g class="w1">
+    <path d="M-40 70 C 200 20, 420 100, 620 55 C 820 10, 1020 95, 1240 48 L 1240 115 L -40 115 Z" fill="url(#footWave1)"/>
+  </g>
+  <g class="w2">
+    <path d="M-40 82 C 180 105, 400 35, 640 75 C 880 115, 1050 40, 1240 72 L 1240 115 L -40 115 Z" fill="url(#footWave2)"/>
+  </g>
+
+  <text x="600" y="34" text-anchor="middle" class="mono" font-size="13" font-weight="600" fill="url(#textGrad)" letter-spacing="0.6">
+    "Construindo sistemas resilientes e agentes inteligentes — da arquitetura ao deploy."
+  </text>
+</svg>
