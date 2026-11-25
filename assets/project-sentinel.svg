@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 226" width="100%" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 206" width="100%" fill="none">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#090e1a"/>
       <stop offset="100%" stop-color="#0f172a"/>
     </linearGradient>
-    <radialGradient id="glowTop" cx="85%" cy="15%" r="65%">
+    <radialGradient id="glowTop" cx="90%" cy="15%" r="60%">
       <stop offset="0%" stop-color="#10b981" stop-opacity="0.22"/>
       <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
     </radialGradient>
@@ -16,31 +16,33 @@
     </style>
   </defs>
 
-  <rect x="1" y="1" width="578" height="224" rx="16" fill="url(#bg)" stroke="#10b981" stroke-opacity="0.4" stroke-width="1.3"/>
-  <rect x="1" y="1" width="578" height="224" rx="16" fill="url(#glowTop)"/>
-  <rect x="24" y="1" width="140" height="3" rx="1.5" fill="#10b981"/>
+  <rect x="1" y="1" width="818" height="204" rx="16" fill="url(#bg)" stroke="#10b981" stroke-opacity="0.42" stroke-width="1.3"/>
+  <rect x="1" y="1" width="818" height="204" rx="16" fill="url(#glowTop)"/>
+  <rect x="28" y="1" width="180" height="3" rx="1.5" fill="#10b981"/>
 
-  <!-- Category Pill & Status -->
-  <rect x="24" y="20" width="176" height="24" rx="12" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-opacity="0.35"/>
-  <circle class="dot" cx="38" cy="32" r="3.5" fill="#10b981"/>
-  <text x="49" y="36" class="mono" font-size="10.5" font-weight="700" fill="#34d399" letter-spacing="0.8">SAAS // OBSERVABILITY</text>
+  <!-- Category Pill & CTA -->
+  <rect x="28" y="20" width="210" height="26" rx="13" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-opacity="0.38"/>
+  <circle class="dot" cx="44" cy="33" r="4" fill="#10b981"/>
+  <text x="56" y="37.5" class="mono" font-size="11.5" font-weight="700" fill="#34d399" letter-spacing="0.9">SAAS // OBSERVABILITY</text>
 
-  <text x="546" y="37" text-anchor="end" class="mono" font-size="13" font-weight="700" fill="#34d399">REPO ↗</text>
+  <rect x="656" y="20" width="136" height="26" rx="13" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-opacity="0.4"/>
+  <text x="724" y="37.5" text-anchor="middle" class="mono" font-size="11.5" font-weight="700" fill="#34d399">VER REPOSITÓRIO ↗</text>
 
   <!-- Title & Tagline -->
-  <text x="24" y="74" class="sans" font-size="22" font-weight="800" fill="#f8fafc">Sentinel Monitor</text>
-  <text x="24" y="96" class="sans" font-size="13.5" font-weight="500" fill="#94a3b8">Observabilidade de servidores VPS, agentes Python &amp; sondas sintéticas</text>
+  <text x="28" y="78" class="sans" font-size="24" font-weight="800" fill="#f8fafc">Sentinel Monitor — Observabilidade &amp; Agentes Multi-Tenant</text>
+  <text x="28" y="102" class="sans" font-size="14.5" font-weight="500" fill="#94a3b8">Plataforma SaaS para monitoramento de servidores VPS, telemetria em tempo real e sondas sintéticas</text>
 
   <!-- Architecture Bullets -->
-  <text x="24" y="128" class="sans" font-size="13" fill="#cbd5e1">▹ Daemon <tspan fill="#34d399" font-weight="600">Python 100% outbound</tspan> com buffer local criptografado</text>
-  <text x="24" y="150" class="sans" font-size="13" fill="#cbd5e1">▹ Sondas HTTP/TCP com blindagem <tspan fill="#34d399" font-weight="600">Anti-SSRF</tspan> pós-resolução DNS</text>
+  <text x="28" y="132" class="sans" font-size="14" fill="#cbd5e1">▹ Daemon leve em <tspan fill="#34d399" font-weight="700">Python (systemd)</tspan> operando 100% outbound com buffer local criptografado</text>
+  <text x="28" y="154" class="sans" font-size="14" fill="#cbd5e1">▹ API assíncrona em <tspan fill="#34d399" font-weight="700">FastAPI + SQLAlchemy 2.0</tspan> com blindagem <tspan fill="#e2e8f0" font-weight="600">Anti-SSRF</tspan> pós-resolução DNS</text>
 
   <!-- Tech Pills -->
-  <g transform="translate(24, 174)">
-    <rect x="0" y="0" width="66" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="33" y="17" text-anchor="middle" class="mono" font-size="11" fill="#e2e8f0">Python</text>
-    <rect x="74" y="0" width="76" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="112" y="17" text-anchor="middle" class="mono" font-size="11" fill="#34d399">FastAPI</text>
-    <rect x="158" y="0" width="124" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="220" y="17" text-anchor="middle" class="mono" font-size="11" fill="#e2e8f0">SQLAlchemy 2</text>
-    <rect x="290" y="0" width="88" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="334" y="17" text-anchor="middle" class="mono" font-size="11" fill="#60a5fa">Next.js 15</text>
-    <rect x="386" y="0" width="68" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="420" y="17" text-anchor="middle" class="mono" font-size="11" fill="#e2e8f0">Docker</text>
+  <g transform="translate(28, 168)">
+    <rect x="0" y="0" width="76" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="38" y="17.5" text-anchor="middle" class="mono" font-size="11.5" fill="#e2e8f0">Python</text>
+    <rect x="84" y="0" width="84" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="126" y="17.5" text-anchor="middle" class="mono" font-size="11.5" fill="#34d399">FastAPI</text>
+    <rect x="176" y="0" width="144" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="248" y="17.5" text-anchor="middle" class="mono" font-size="11.5" fill="#e2e8f0">SQLAlchemy Async</text>
+    <rect x="328" y="0" width="98" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="377" y="17.5" text-anchor="middle" class="mono" font-size="11.5" fill="#60a5fa">Next.js 15</text>
+    <rect x="434" y="0" width="104" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="486" y="17.5" text-anchor="middle" class="mono" font-size="11.5" fill="#e2e8f0">Pydantic v2</text>
+    <rect x="546" y="0" width="76" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="584" y="17.5" text-anchor="middle" class="mono" font-size="11.5" fill="#e2e8f0">Docker</text>
   </g>
 </svg>

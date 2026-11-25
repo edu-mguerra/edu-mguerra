@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 226" width="100%" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 206" width="100%" fill="none">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#090e1a"/>
       <stop offset="100%" stop-color="#0f172a"/>
     </linearGradient>
-    <radialGradient id="glowTop" cx="85%" cy="15%" r="65%">
+    <radialGradient id="glowTop" cx="90%" cy="15%" r="60%">
       <stop offset="0%" stop-color="#667eea" stop-opacity="0.24"/>
       <stop offset="100%" stop-color="#667eea" stop-opacity="0"/>
     </radialGradient>
@@ -16,31 +16,33 @@
     </style>
   </defs>
 
-  <rect x="1" y="1" width="578" height="224" rx="16" fill="url(#bg)" stroke="#667eea" stroke-opacity="0.45" stroke-width="1.3"/>
-  <rect x="1" y="1" width="578" height="224" rx="16" fill="url(#glowTop)"/>
-  <rect x="24" y="1" width="140" height="3" rx="1.5" fill="#667eea"/>
+  <rect x="1" y="1" width="818" height="204" rx="16" fill="url(#bg)" stroke="#667eea" stroke-opacity="0.45" stroke-width="1.3"/>
+  <rect x="1" y="1" width="818" height="204" rx="16" fill="url(#glowTop)"/>
+  <rect x="28" y="1" width="180" height="3" rx="1.5" fill="#667eea"/>
 
-  <!-- Category Pill & Status -->
-  <rect x="24" y="20" width="212" height="24" rx="12" fill="#667eea" fill-opacity="0.14" stroke="#667eea" stroke-opacity="0.4"/>
-  <circle class="dot" cx="38" cy="32" r="3.5" fill="#667eea"/>
-  <text x="49" y="36" class="mono" font-size="10.5" font-weight="700" fill="#818cf8" letter-spacing="0.8">PROPRIETARY // MOBILE GEO</text>
+  <!-- Category Pill & CTA -->
+  <rect x="28" y="20" width="238" height="26" rx="13" fill="#667eea" fill-opacity="0.14" stroke="#667eea" stroke-opacity="0.42"/>
+  <circle class="dot" cx="44" cy="33" r="4" fill="#667eea"/>
+  <text x="56" y="37.5" class="mono" font-size="11.5" font-weight="700" fill="#818cf8" letter-spacing="0.9">PROPRIETARY // MOBILE GEO</text>
 
-  <text x="546" y="37" text-anchor="end" class="mono" font-size="13" font-weight="700" fill="#818cf8">PORTFÓLIO ↗</text>
+  <rect x="656" y="20" width="136" height="26" rx="13" fill="#667eea" fill-opacity="0.16" stroke="#667eea" stroke-opacity="0.45"/>
+  <text x="724" y="37.5" text-anchor="middle" class="mono" font-size="11.5" font-weight="700" fill="#818cf8">VER PORTFÓLIO ↗</text>
 
   <!-- Title & Tagline -->
-  <text x="24" y="74" class="sans" font-size="22" font-weight="800" fill="#f8fafc">Análise Fitossanitária &amp; Heatmap</text>
-  <text x="24" y="96" class="sans" font-size="13.5" font-weight="500" fill="#94a3b8">Ecossistema agronômico em 3 camadas com coleta offline e mapas de calor</text>
+  <text x="28" y="78" class="sans" font-size="24" font-weight="800" fill="#f8fafc">Análise Fitossanitária &amp; Mapa de Calor Geoespacial</text>
+  <text x="28" y="102" class="sans" font-size="14.5" font-weight="500" fill="#94a3b8">Ecossistema Full Stack em 3 camadas para monitoramento agronômico em áreas rurais remotas</text>
 
   <!-- Architecture Bullets -->
-  <text x="24" y="128" class="sans" font-size="13" fill="#cbd5e1">▹ App <tspan fill="#818cf8" font-weight="600">React Native 100% offline</tspan> em áreas rurais sem conectividade</text>
-  <text x="24" y="150" class="sans" font-size="13" fill="#cbd5e1">▹ Ingestão geoespacial em <tspan fill="#818cf8" font-weight="600">Node.js</tspan> + mapas de calor interativos (Leaflet)</text>
+  <text x="28" y="132" class="sans" font-size="14" fill="#cbd5e1">▹ App <tspan fill="#818cf8" font-weight="700">React Native 100% offline</tspan> para coleta georreferenciada com fila local (AsyncStorage)</text>
+  <text x="28" y="154" class="sans" font-size="14" fill="#cbd5e1">▹ API <tspan fill="#818cf8" font-weight="700">Node.js + TypeScript</tspan> (Clean Architecture) + dashboard Next.js com mapas de calor (Leaflet)</text>
 
   <!-- Tech Pills -->
-  <g transform="translate(24, 174)">
-    <rect x="0" y="0" width="112" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="56" y="17" text-anchor="middle" class="mono" font-size="11" fill="#818cf8">React Native</text>
-    <rect x="120" y="0" width="76" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="158" y="17" text-anchor="middle" class="mono" font-size="11" fill="#e2e8f0">Next.js</text>
-    <rect x="204" y="0" width="76" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="242" y="17" text-anchor="middle" class="mono" font-size="11" fill="#34d399">Node.js</text>
-    <rect x="288" y="0" width="96" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="336" y="17" text-anchor="middle" class="mono" font-size="11" fill="#e2e8f0">TypeScript</text>
-    <rect x="392" y="0" width="76" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="430" y="17" text-anchor="middle" class="mono" font-size="11" fill="#e2e8f0">Leaflet</text>
+  <g transform="translate(28, 168)">
+    <rect x="0" y="0" width="118" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="59" y="17.5" text-anchor="middle" class="mono" font-size="11.5" fill="#818cf8">React Native</text>
+    <rect x="126" y="0" width="84" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="168" y="17.5" text-anchor="middle" class="mono" font-size="11.5" fill="#e2e8f0">Next.js</text>
+    <rect x="218" y="0" width="82" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="259" y="17.5" text-anchor="middle" class="mono" font-size="11.5" fill="#34d399">Node.js</text>
+    <rect x="308" y="0" width="102" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="359" y="17.5" text-anchor="middle" class="mono" font-size="11.5" fill="#e2e8f0">TypeScript</text>
+    <rect x="418" y="0" width="84" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="460" y="17.5" text-anchor="middle" class="mono" font-size="11.5" fill="#e2e8f0">Leaflet</text>
+    <rect x="510" y="0" width="118" height="26" rx="7" fill="#1e293b" stroke="#334155"/><text x="569" y="17.5" text-anchor="middle" class="mono" font-size="11.5" fill="#e2e8f0">Offline-First</text>
   </g>
 </svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 206" width="100%" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0%" cy="0%" r="75%">
+      <stop offset="0%" stop-color="#4facfe" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#4facfe" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'Fira Code', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+      .dot { animation: pulse 2.2s ease-in-out infinite 1.5s; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="458" height="204" rx="16" fill="url(#bg)" stroke="#4facfe" stroke-opacity="0.42" stroke-width="1.3"/>
+  <rect x="1" y="1" width="458" height="204" rx="16" fill="url(#glow)"/>
+  <rect x="20" y="1" width="110" height="3" rx="1.5" fill="#4facfe"/>
+
+  <rect x="20" y="20" width="40" height="40" rx="10" fill="#4facfe" fill-opacity="0.16" stroke="#4facfe" stroke-opacity="0.45"/>
+  <ellipse cx="40" cy="34" rx="9" ry="3.5" stroke="#38bdf8" stroke-width="1.7"/>
+  <path d="M31 34v12c0 1.9 4 3.5 9 3.5s9-1.6 9-3.5V34" stroke="#38bdf8" stroke-width="1.7"/>
+  <path d="M31 40c0 1.9 4 3.5 9 3.5s9-1.6 9-3.5" stroke="#38bdf8" stroke-width="1.7"/>
+
+  <text x="72" y="35" class="mono" font-size="11" font-weight="700" fill="#38bdf8" letter-spacing="1">04 // DATA, CLOUD &amp; SECURITY</text>
+  <text x="72" y="57" class="sans" font-size="17.5" font-weight="800" fill="#f8fafc">Dados, Infra &amp; Observabilidade</text>
+  <circle class="dot" cx="436" cy="28" r="4" fill="#4facfe"/>
+
+  <text x="20" y="92" class="sans" font-size="13.5" fill="#cbd5e1">▹ Modelagem &amp; tuning em <tspan fill="#38bdf8" font-weight="700">PostgreSQL, SQL Server,</tspan></text>
+  <text x="32" y="112" class="sans" font-size="13.5" fill="#38bdf8" font-weight="700">MySQL, SQLite, MongoDB &amp; Redis</text>
+
+  <text x="20" y="138" class="sans" font-size="13.5" fill="#cbd5e1">▹ Agentes de telemetria, <tspan fill="#38bdf8" font-weight="700">Anti-SSRF</tspan>, pipelines</text>
+  <text x="32" y="158" class="sans" font-size="13.5" fill="#e2e8f0" font-weight="600">ETL/ELT, Docker, Linux VPS &amp; AWS</text>
+
+  <text x="20" y="186" class="mono" font-size="11" fill="#64748b">SQLAlchemy Async • Systemd • Caching • CI/CD</text>
+</svg>

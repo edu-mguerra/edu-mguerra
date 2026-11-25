@@ -27,48 +27,50 @@
 
 <img src="./assets/divider.svg" alt="Divider" width="100%" />
 
-<!-- ===================== PILARES DE ENGENHARIA (BENTO GRID) ===================== -->
+<!-- ===================== PILARES DE ENGENHARIA (RESPONSIVE BENTO GRID) ===================== -->
 <h2>⚡ Arquitetura &amp; Pilares de Atuação</h2>
 
-<img src="./assets/pillars.svg" alt="Pilares de Engenharia — IA, Full Stack, Offline-First e Cloud" width="100%" />
+<p align="center">
+  <img src="./assets/pillar-ai.svg" alt="Engenharia de IA & Agentes" width="425" />
+  <img src="./assets/pillar-fullstack.svg" alt="Back-End & Front-End Moderno (Node, Express, NestJS, .NET, Next.js)" width="425" />
+</p>
+<p align="center">
+  <img src="./assets/pillar-offline.svg" alt="Alta Disponibilidade & Offline-First" width="425" />
+  <img src="./assets/pillar-cloud.svg" alt="Dados, Infra & Observabilidade" width="425" />
+</p>
 
-<br/><br/>
+<br/>
 <img src="./assets/divider.svg" alt="Divider" width="100%" />
 
-<!-- ===================== PROJETOS EM DESTAQUE (INTERATIVE CARDS) ===================== -->
+<!-- ===================== PROJETOS EM DESTAQUE (FULL-WIDTH RESPONSIVE CARDS) ===================== -->
 <h2>🚀 Projetos &amp; Arquiteturas em Destaque</h2>
 <sub>Clique em qualquer card para abrir o repositório ou o portfólio completo</sub>
 
 <br/><br/>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/edu-mguerra/SentinelMonitor" target="_blank">
-        <img src="./assets/project-sentinel.svg" alt="Sentinel Monitor" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/edu-mguerra/langchain-langgraph-cookbook" target="_blank">
-        <img src="./assets/project-ai.svg" alt="LangChain & LangGraph Cookbook" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/edu-mguerra/LaserControl-High-Availability-Production-System" target="_blank">
-        <img src="./assets/project-laser.svg" alt="LaserControl — Alta Disponibilidade" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://full-stack-eduardo-guerraa-pied.vercel.app" target="_blank">
-        <img src="./assets/project-agro.svg" alt="Análise Fitossanitária & Heatmap" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/edu-mguerra/SentinelMonitor" target="_blank">
+  <img src="./assets/project-sentinel.svg" alt="Sentinel Monitor — Observabilidade & Agentes Multi-Tenant" width="100%" />
+</a>
 
-<br/>
+<br/><br/>
+
+<a href="https://github.com/edu-mguerra/langchain-langgraph-cookbook" target="_blank">
+  <img src="./assets/project-ai.svg" alt="LangChain & LangGraph Cookbook — Agentes & RAG" width="100%" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/edu-mguerra/LaserControl-High-Availability-Production-System" target="_blank">
+  <img src="./assets/project-laser.svg" alt="LaserControl — Sistema Industrial de Alta Disponibilidade" width="100%" />
+</a>
+
+<br/><br/>
+
+<a href="https://full-stack-eduardo-guerraa-pied.vercel.app" target="_blank">
+  <img src="./assets/project-agro.svg" alt="Análise Fitossanitária & Mapa de Calor Geoespacial" width="100%" />
+</a>
+
+<br/><br/>
 <img src="./assets/divider.svg" alt="Divider" width="100%" />
 
 <!-- ===================== STACK TECNOLÓGICA ===================== -->
@@ -93,11 +95,11 @@
   <tr>
     <td><strong>⚙️ Back-End &amp; Corporativo</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/.NET_8_%2F_ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/.NET_8_%2F_ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
     </td>
   </tr>
   <tr>
@@ -140,36 +142,13 @@
 <br/><br/>
 <img src="./assets/divider.svg" alt="Divider" width="100%" />
 
-<!-- ===================== FORMAÇÃO & ANALYTICS ===================== -->
-<h2>🎓 Formação Acadêmica</h2>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>⚙️ Engenharia de Software</strong><br/>
-      <sub>Unicesumar • 2025 – 2029 (Em andamento)</sub>
-    </td>
-    <td align="center" width="50%">
-      <strong>💻 Análise e Desenvolvimento de Sistemas</strong><br/>
-      <sub>Universidade Federal do Vale do São Francisco (UNIVASF) • 2024 – 2027</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
+<!-- ===================== ANALYTICS ===================== -->
 <h2>📊 GitHub Analytics</h2>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edu-mguerra&theme=dracula&exclude=html,css" alt="Most Commit Language" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edu-mguerra&theme=dracula" alt="Profile Details" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edu-mguerra&theme=dracula&exclude=html,css" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edu-mguerra&theme=dracula" alt="Profile Details" />
+</p>
 
 <br/>
 

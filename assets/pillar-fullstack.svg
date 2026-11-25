@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 206" width="100%" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0%" cy="0%" r="75%">
+      <stop offset="0%" stop-color="#764ba2" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#764ba2" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'Fira Code', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+      .dot { animation: pulse 2.2s ease-in-out infinite 0.5s; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="458" height="204" rx="16" fill="url(#bg)" stroke="#764ba2" stroke-opacity="0.45" stroke-width="1.3"/>
+  <rect x="1" y="1" width="458" height="204" rx="16" fill="url(#glow)"/>
+  <rect x="20" y="1" width="110" height="3" rx="1.5" fill="#a78bfa"/>
+
+  <rect x="20" y="20" width="40" height="40" rx="10" fill="#764ba2" fill-opacity="0.18" stroke="#a78bfa" stroke-opacity="0.45"/>
+  <path d="M35 34l-6 6 6 6M45 34l6 6-6 6M41.5 32l-3 16" stroke="#c084fc" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="72" y="35" class="mono" font-size="11" font-weight="700" fill="#c084fc" letter-spacing="1">02 // FULL STACK ARCHITECTURE</text>
+  <text x="72" y="57" class="sans" font-size="17.5" font-weight="800" fill="#f8fafc">Back-End &amp; Front-End Moderno</text>
+  <circle class="dot" cx="436" cy="28" r="4" fill="#a78bfa"/>
+
+  <text x="20" y="92" class="sans" font-size="13.5" fill="#cbd5e1">▹ APIs RESTful com <tspan fill="#c084fc" font-weight="700">Node.js, Express, NestJS</tspan>,</text>
+  <text x="32" y="112" class="sans" font-size="13.5" fill="#c084fc" font-weight="700">C# / .NET 8, ASP.NET Core &amp; FastAPI</text>
+
+  <text x="20" y="138" class="sans" font-size="13.5" fill="#cbd5e1">▹ Interfaces reativas e SEO-ready em</text>
+  <text x="32" y="158" class="sans" font-size="13.5" fill="#e2e8f0" font-weight="600">Next.js 15, React, TypeScript &amp; Tailwind CSS</text>
+
+  <text x="20" y="186" class="mono" font-size="11" fill="#64748b">JWT • RBAC • Clean Architecture • Microservices</text>
+</svg>
