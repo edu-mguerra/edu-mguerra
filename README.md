@@ -27,17 +27,10 @@
 
 <img src="./assets/divider.svg" alt="Divider" width="100%" />
 
-<!-- ===================== PILARES DE ENGENHARIA (RESPONSIVE BENTO GRID) ===================== -->
+<!-- ===================== PILARES DE ENGENHARIA (2x2 GRID) ===================== -->
 <h2>⚡ Arquitetura &amp; Pilares de Atuação</h2>
 
-<p align="center">
-  <img src="./assets/pillar-ai.svg" alt="Engenharia de IA & Agentes" width="425" />
-  <img src="./assets/pillar-fullstack.svg" alt="Back-End & Front-End Moderno (Node, Express, NestJS, .NET, Next.js)" width="425" />
-</p>
-<p align="center">
-  <img src="./assets/pillar-offline.svg" alt="Alta Disponibilidade & Offline-First" width="425" />
-  <img src="./assets/pillar-cloud.svg" alt="Dados, Infra & Observabilidade" width="425" />
-</p>
+<img src="./assets/pillars.svg" alt="Pilares de Engenharia — IA, Full Stack (Node, Express, NestJS, .NET, Next.js), Offline-First e Cloud" width="100%" />
 
 <br/>
 <img src="./assets/divider.svg" alt="Divider" width="100%" />
